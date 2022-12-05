@@ -9,16 +9,17 @@ This repo is a collection of AWESOME things about model transferability, includi
 ## Deep methods
 
 ### 2019
-- Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
+- **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
+- **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726)
 
 ### 2020
-- LEEP: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[Codes]](https://github.com/google-research/google-research/blob/master/stable_transfer/transferability/leep.py)
+- **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[Codes]](https://github.com/google-research/google-research/blob/master/stable_transfer/transferability/leep.py)
 - Model Reuse with Reduced Kernel Mean Embedding Specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
 - Boosting-based reliable model reuse [[ACML]](https://proceedings.mlr.press/v129/ding20a.html)
 
 ### 2021
-- Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
-- LogME: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](http://arxiv.org/abs/2211.16299)
+- **[n-Leep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
+- **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](http://arxiv.org/abs/2211.16299)
 - A linearized framework and a new benchmark for model selection for fine-tuning [[CoRR]](https://openreview.net/forum?id=ZsT82LZ8Xkc)
 - Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[Codes]](https://github.com/dbolya/parc)
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
