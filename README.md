@@ -4,22 +4,28 @@ This repo is a collection of AWESOME things about model transferability, includi
 
 ## Shallow methods
 - **[2016]** Learning to Select Pre-trained Deep Representations with Bayesian Evidence Framework [[CVPR]](https://openaccess.thecvf.com/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf)
+>0
 
 
 ## Deep methods
 
 ### 2019
 - **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
+> The conditional entropy of label sequences
 - **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726)
+> a high H-score implies the inter-class variance of f is large, while feature redundancy is small.
 
 ### 2020
-- **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[Codes]](https://github.com/google-research/google-research/blob/master/stable_transfer/transferability/leep.py)
+- **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
+>The conditional entropy of label sequences
 - Model Reuse with Reduced Kernel Mean Embedding Specification [[ArXiv]](https://arxiv.org/abs/2001.07135)
+> 0
 - Boosting-based reliable model reuse [[ACML]](https://proceedings.mlr.press/v129/ding20a.html)
+> 0
 
 ### 2021
-- **[n-Leep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
-- **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](http://arxiv.org/abs/2211.16299)
+- **[NLeep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
+- **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](http://arxiv.org/abs/2211.16299) [[PyTorch]](https://github.com/thuml/LogME)
 - A linearized framework and a new benchmark for model selection for fine-tuning [[CoRR]](https://openreview.net/forum?id=ZsT82LZ8Xkc)
 - Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[Codes]](https://github.com/dbolya/parc)
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
@@ -33,8 +39,9 @@ This repo is a collection of AWESOME things about model transferability, includi
 - Frustratingly Easy Transferability Estimation [[ICML]](https://proceedings.mlr.press/v162/huang22d.html) [[Slides]](https://icml.cc/media/icml-2022/Slides/17386.pdf)
 - Rethinking Two Consensuses of the Transferability in Deep Learning [[ArXiv]](http://arxiv.org/abs/2212.00399)
 - Transferability Estimation Using Bhattacharyya Class Separability [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/html/Pandy_Transferability_Estimation_Using_Bhattacharyya_Class_Separability_CVPR_2022_paper.html)
+> inter-class distance larger, transferability higher.
 - Transferability Metrics for Selecting Source Model Ensembles [[CVPR]](https://openaccess.thecvf.com/content/CVPR2022/papers/Agostinelli_Transferability_Metrics_for_Selecting_Source_Model_Ensembles_CVPR_2022_paper.pdf)
-- **How stable are Transferability Metrics evaluations?** [[ECCV]](https://arxiv.org/abs/2204.01403) [[Codes]](https://github.com/google-research/google-research/tree/master/stable_transfer)
+- **How stable are Transferability Metrics evaluations?** [[ECCV]](https://arxiv.org/abs/2204.01403) [[TensorFlow]](https://github.com/google-research/google-research/tree/master/stable_transfer)
 - Pre-Trained Model Reusability Evaluation for Small-Data Transfer Learning [[NeurIPS]](https://openreview.net/forum?id=XY5g3mkVge) [[Codes]](https://github.com/candytalking/SynLearn.)
 - Neural Transferability: Current Pitfalls and Striving for Optimal Scores [[SSRN Under Review]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4196999)
 - Transferability Estimation Based On Principal Gradient Expectation [[ArXiv]](http://arxiv.org/abs/2211.16299)
