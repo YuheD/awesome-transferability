@@ -25,11 +25,17 @@ This repo is a collection of AWESOME things about model transferability, includi
 
 ### 2021
 - **[NLeep]** Ranking Neural Checkpoints [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Ranking_Neural_Checkpoints_CVPR_2021_paper.pdf)
+> replacing θ(x)z, the probability of classifying an input x to the class z, in equations (4–5) by the posterior distribution P (v|x).
 - **LogME**: Practical Assessment of Pre-trained Models for Transfer Learning [[ICML]](http://arxiv.org/abs/2211.16299) [[PyTorch]](https://github.com/thuml/LogME)
+> 0
 - A linearized framework and a new benchmark for model selection for fine-tuning [[CoRR]](https://openreview.net/forum?id=ZsT82LZ8Xkc)
-- Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[Codes]](https://github.com/dbolya/parc)
+> Label-Gradient Correlation.& Label-Feature Correlation.
+- Scalable Diverse Model Selection for Accessible Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/file/a1140a3d0df1c81e24ae954d935e8926-Paper.pdf) [[PyTorch]](https://github.com/dbolya/parc)
+> pairwise Pearson product-moment correlation & Spearman correlation
 - A Mathematical Framework for Quantifying Transferability in Multi-source Transfer Learning [[NeurIPS]](https://proceedings.neurips.cc/paper/2021/hash/db9ad56c71619aeed9723314d1456037-Abstract.html)
+> 0
 - Practical Transferability Estimation for Image Classification Tasks [[ArXiv]](https://arxiv.org/abs/2106.10479)
+> 0
 - Newer is not always better: Rethinking transferability metrics, their peculiarities, stability and performance [[ArXiv]](https://arxiv.org/abs/2110.06893)
 - Transferability Estimation for Semantic Segmentation Task [[ArXiv]](https://arxiv.org/abs/2109.15242)
 - OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations [[CVPR]](https://openaccess.thecvf.com/content/CVPR2021/papers/Tan_OTCE_A_Transferability_Metric_for_Cross-Domain_Cross-Task_Representations_CVPR_2021_paper.pdf) [[Poster]](https://www.tbsi.edu.cn/wolt/tbsi_wolt2020/posters/tanyang.pdf)
