@@ -11,7 +11,7 @@ This repo is a collection of AWESOME things about model transferability, includi
 
 ### 2019
 - **[NCE]** Transferability and Hardness of Supervised Classification Tasks [[ICCV]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tran_Transferability_and_Hardness_of_Supervised_Classification_Tasks_ICCV_2019_paper.pdf) 
-- **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726)
+- **[H-Score]** An informationtheoretic approach to transferability in task transfer learning [[ICIP]](https://ieeexplore.ieee.org/document/8803726) [[Codes]](https://github.com/YaojieBao/An-Information-theoretic-Metric-of-Transferability)
 
 ### 2020
 - **LEEP**: A New Measure to Evaluate Transferability of Learned Representations [[ICML]](https://arxiv.org/pdf/2002.12462) [[Slides]](https://dev.icml.cc/media/icml-2020/Slides/6289.pdf) [[PyTorch]](https://github.com/thuml/LogME)
